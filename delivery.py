@@ -1,4 +1,4 @@
-import sqlite3  # Biblioteca para trabalhar com banco de dados SQLite
+import sqlite3  # Biblioteca para trabalhar com banco de dados SQLite ...
 
 # Criamos uma conexão com o banco de dados (ou criamos um novo se não existir)
 conn = sqlite3.connect("delivery.db")
